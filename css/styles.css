@@ -1,0 +1,77 @@
+body{
+	background-image: url("http://frpnet.net/wp-content/uploads/2016/04/the-wall-duvar.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%
+}
+
+#main{
+    margin: auto;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.card{
+    width: 240px;
+    background-color: white;
+    display: inline;
+    margin: 30px 30px auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 0px 0px rgba(1,1,1,0.3);
+    float:left;
+    font-family: 'Cardo', serif;
+    margin-bottom: 50px;
+}
+
+.crest{
+    height: 200px;
+    width: 200px;
+    float: center;
+    padding: 20px;
+    padding-bottom: 5px;
+}
+
+.house, .region, .lord, .allegiance, .words{
+    margin-top: 0px;
+    width: 230px;
+    float: center;
+    padding: 5px;
+    text-align: center;
+}
+
+.house{
+    font-weight: bold;
+    font-size: 20px
+}
+/*.region{
+    width: 230px;
+    float: center;
+    padding: 5px;
+    text-align: center;
+}
+
+.lord{
+    width: 230px;
+    float: center;
+    padding: 5px;
+    text-align: center;
+}
+
+.allegiance{
+    width: 230px;
+    float: center;
+    padding: 5px;
+    text-align: center;
+}
+
+.words{
+    width: 230px;
+    float: center;
+    padding: 5px;
+    text-align: center;
+}*/
